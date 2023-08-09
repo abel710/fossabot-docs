@@ -1,8 +1,8 @@
 ---
-id: weather
+id: Sao paulo
 ---
 
-# $(weather)
+# $(Temperatura)
 
 Returns weather data for a specified location.
 
